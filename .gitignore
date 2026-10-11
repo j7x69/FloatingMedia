@@ -1,0 +1,9 @@
+# Binaries and build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+
+# Allow the compiled standalone executable for quick release if desired, or ignore if building from source
+# FloatingMediaBar.exe
