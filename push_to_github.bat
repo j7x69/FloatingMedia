@@ -19,7 +19,7 @@ if "%TOKEN%"=="" (
 
 echo.
 echo Dang day code len GitHub...
-"C:\Users\j7x6\MinGit\cmd\git.exe" push https://%TOKEN%@github.com/j7x69/FloatingMediaBar.git main
+"C:\Users\j7x6\MinGit\cmd\git.exe" push --force https://%TOKEN%@github.com/j7x69/FloatingMediaBar.git main
 
 if %ERRORLEVEL% EQU 0 (
     echo.
