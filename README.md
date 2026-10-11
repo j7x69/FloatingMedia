@@ -1,4 +1,4 @@
-# 🎵 Floating Media Studio
+# 🎵 Cửa Sổ Media Nổi
 
 Một tiện ích điều khiển nhạc và video dạng cửa sổ nổi siêu nhẹ, sang trọng dành cho Windows. Ứng dụng có khả năng **chạy đè lên mọi game và ứng dụng full-screen mà không bao giờ làm mất tiêu điểm chuột hay văng game**.
 
